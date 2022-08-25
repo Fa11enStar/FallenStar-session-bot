@@ -14,6 +14,7 @@ Generate Pyrogram String Session Using this bot.
 
 ## Deploy Now:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fa11enStar/FallenStar-session-bot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Fa11enStar/FallenStar-session-bot)
 
 ## Support Group:
 <a href="https://telegram.dog/Ns_Bot_supporters"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
